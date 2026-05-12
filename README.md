@@ -1,5 +1,9 @@
 # 🌿 CyayoSwingtoGrass - Seamless Combat System
 
+![Version](https://img.shields.io/badge/Version-1.0-blue.svg)
+![API](https://img.shields.io/badge/API-1.21-green.svg)
+![Author](https://img.shields.io/badge/Author-Cyayo%20Cressiel-orange.svg)
+
 "Ayunkan senjatamu, tebas musuhmu tanpa rintangan. Serang entitas menembus rumput dan tanaman dekoratif dengan Ray-Tracing presisi."
 
 ```text
@@ -41,4 +45,4 @@ cyayoswing.admin            > Master permission (Akses Semua).
 
 ---
 
-Made with ❤️ by **Cyayo**
+Made with ❤️ by **Cyayo Cressiel**
