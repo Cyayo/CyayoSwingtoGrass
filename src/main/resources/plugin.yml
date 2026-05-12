@@ -1,0 +1,12 @@
+name: CyayoSwingtoGrass
+version: 1.0
+main: id.cyayo.swingtograss.CyayoSwingtoGrass
+api-version: '1.21'
+author: Cyayo
+description: Swing through grass and other passable blocks to hit entities.
+commands:
+  cyayoswing:
+    description: Main command for CyayoSwingtoGrass
+    permission: cyayoswing.admin
+    usage: /cyayoswing reload
+
